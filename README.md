@@ -11,21 +11,21 @@ The To-Do App is a intuitive task management application built using React and l
 ## Features
 
 1. Task Management
-Add Task: Easily add new tasks to the to-do list.
-Edit Task: Inline editing allows users to modify task details on the fly.
-Delete Task: Remove unwanted tasks with a simple delete action.
-Mark as Completed: Check off tasks as completed to keep track of progress.
+- Add Task: Easily add new tasks to the to-do list.
+- Edit Task: Inline editing allows users to modify task details on the fly.
+- Delete Task: Remove unwanted tasks with a simple delete action.
+- Mark as Completed: Check off tasks as completed to keep track of progress.
 
 2. Contextual Organization
-Context API: Utilizes React Context API for efficient state management across components.
-TodoContext: Centralizes state management for tasks, ensuring consistency and accessibility throughout the application.
+- Context API: Utilizes React Context API for efficient state management across components.
+- TodoContext: Centralizes state management for tasks, ensuring consistency and accessibility throughout the application.
 
-3. Data Persistence
-Local Storage: Utilizes browser's local storage to persist task data, ensuring data integrity and persistence between sessions.
+4. Data Persistence
+- Local Storage: Utilizes browser's local storage to persist task data, ensuring data integrity and persistence between sessions.
 
-4. User Interface
-Responsive Design: The app features a responsive layout, ensuring optimal user experience across devices.
-Clean UI: A minimalist and intuitive user interface makes task management a breeze.
+5. User Interface
+- Responsive Design: The app features a responsive layout, ensuring optimal user experience across devices.
+- Clean UI: A minimalist and intuitive user interface makes task management a breeze.
 
 <br />
 
