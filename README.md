@@ -48,7 +48,7 @@ The To-Do App is a intuitive task management application built using React and l
 
 **HTML/CSS:** Markup and styling languages for structuring and designing the user interface.
 
-**Local Storage API:** Utilized to persist task data locally in the user's browser.
+**Local Storage:** Utilized to persist task data locally in the user's browser.
 
 ### Tools used on this project
 
